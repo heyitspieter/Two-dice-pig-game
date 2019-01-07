@@ -11,3 +11,5 @@ to its opponent.
 3. If player gets any other number, they can decide to continue and roll the dice.
 
 4. If player decides to hold, then their turn total (temporary score) is added to the overall score.
+
+For more about this game visit <a href="http://www.netexl.com/howtoplay/pig/">Play Pig Dice Game Online</a>
